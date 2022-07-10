@@ -1,4 +1,4 @@
-<img src="https://github.com/aldro61/eeml_causal_tutorial/raw/main/eeml_logo.png" height="100" /><strong>2022</strong>
+<img src="https://github.com/eemlcommunity/PracticalSessions2022/raw/main/causality/eeml_logo_special_causality.png" height="100" /><strong>2022</strong>
 
 <h1>A practical introduction to causal inference</h1>
 
