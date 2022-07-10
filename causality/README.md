@@ -2,7 +2,7 @@
 
 <h1>A practical introduction to causal inference</h1>
 
-By: [Alexandre Drouin](https://www.alexdrouin.com/)
+By: [Alexandre Drouin](https://www.alexdrouin.com/) with contributions from [Matej Zečević](https://matej-zecevic.de/), [Philippe Brouillard](https://philippe-brouillard.com/), and [Thibaud Godon](https://github.com/thibgo)
 
 <br />
 
