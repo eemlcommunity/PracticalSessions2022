@@ -13,3 +13,7 @@ By: [Alexandre Drouin](https://www.alexdrouin.com/) with contributions from [Mat
  Link: [Google Colab](https://colab.research.google.com/drive/13Bsvvl5l3uR1hbVdpMAFR13gdjwoJ6if?usp=sharing)
  
  License: [MIT](https://opensource.org/licenses/MIT)
+ 
+ 
+ <br />
+ <strong>Remote participants:</strong> You can connect to the following zoom room to ask questions to our remote TAs (Philippe and Thibaud): https://ulaval.zoom.us/j/4780165761
